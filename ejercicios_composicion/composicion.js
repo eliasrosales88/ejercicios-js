@@ -176,6 +176,3 @@ alumno3.addNota(nota3);
 
 alumno3.getMediaNotas();
 alumno3.isAprobado();
-
-
-
